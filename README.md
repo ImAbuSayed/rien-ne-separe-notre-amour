@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/rien-ne-separe-notre-amour/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Rien Ne Sépare Notre Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rien-ne-separe-notre-amour/) |
+| **Get License** | [Music Rights & Licensing for Rien Ne Sépare Notre Amour](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/rien-ne-separe-notre-amour/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans la nuit parisienne, nos regards se croisent, baby
+> L'atmosphère est brûlante, sous les néons je t'attire
+> Tu sais que mon cœur bat au rythme de tes envies
+> Viens près de moi ce soir, laisse la passion nous séduire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
